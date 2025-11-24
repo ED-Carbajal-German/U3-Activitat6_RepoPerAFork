@@ -32,7 +32,7 @@ public class MissatgesNadalencs {
 		// Fila2
 		AlumneFila2PC1();
 
-		AlumneFila2PC2(System.out.println("Hola, sóc German! 🎉 Feliç Any Nou!"));
+		AlumneFila2PC2();
 
 		AlumneFila2PC3();
 
