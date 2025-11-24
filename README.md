@@ -68,7 +68,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 #### AlumneFila2 PC5:
 
 
-#### AlumneFila2 PC6:
+#### AlumneFila2 PC6: german
+Añadido método AlumneFila2PC6() con mensaje de felicitación Año Nuevo.
 
 
 
